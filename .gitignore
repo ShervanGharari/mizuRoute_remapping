@@ -1,0 +1,17 @@
+# Ignore environment folder
+/env/
+
+# Ignore output files
+/output/
+
+/temporary/
+
+# Optional: Ignore other common files
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.log
+*.bak
+*.swp
+
